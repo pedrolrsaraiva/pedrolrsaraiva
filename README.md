@@ -20,6 +20,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFCE**, atualme
 
 ---
 
+## 💻 Projetos
+
+- [🧮 Calculadora Java](https://github.com/pedrolrsaraiva/calculadora-java)
+- [🔐 Login Simples Java](https://github.com/pedrolrsaraiva/login-simples-java)
+- [🎮 Jogo de Adivinhação Java](https://github.com/pedrolrsaraiva/jogo-adivinhacao-java)
+
+---
+
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolrsaraiva)
